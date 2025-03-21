@@ -1,4 +1,4 @@
-# Next.js Quiz Project / پروژه سوالات تستی Next.js
+# Laravel CRUD Project 
 
 <img src="https://github.com/hoseinrashidi-urmavi/laravel-crud/blob/main/download.png" style="width: 400px; border: 1px solid #ccc; border-radius: 5px;">
 
