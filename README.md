@@ -60,9 +60,4 @@
 
 
 
-## Learn More / اطلاعات بیشتر
 
-**English:** For more information about Next.js, you can visit the official website:
-**فارسی:** برای اطلاعات بیشتر در مورد Next.js، می‌توانید به وب‌سایت رسمی آن مراجعه کنید:
-
-[https://nextjs.org/](https://nextjs.org/)
