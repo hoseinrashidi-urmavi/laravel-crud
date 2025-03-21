@@ -1,0 +1,20 @@
+@import 'tailwindcss';
+
+@source '../../vendor/laravel/framework/src/Illuminate/Pagination/resources/views/*.blade.php';
+@source '../../storage/framework/views/*.php';
+@source "../**/*.blade.php";
+@source "../**/*.js";
+@source "../**/*.vue";
+
+
+@theme {
+    --color-pro: #030712;
+    --font-yekan: "yekan", "yekan";
+
+  }
+
+
+  @font-face {
+    font-family: yekan;
+    src: url("/public/iranyekanweblight.woff") ;
+  }
