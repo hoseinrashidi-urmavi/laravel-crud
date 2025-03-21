@@ -1,6 +1,6 @@
 # Next.js Quiz Project / پروژه سوالات تستی Next.js
 
-<img src="https://github.com/hoseinrashidi-urmavi/laravel-crud/blob/main/download.png" style="width: 200px; border: 1px solid #ccc; border-radius: 5px;">
+<img src="https://github.com/hoseinrashidi-urmavi/laravel-crud/blob/main/download.png" style="width: 400px; border: 1px solid #ccc; border-radius: 5px;">
 
 **English:** Hi, in this project, I have created a small project for crud operations. This project is developed with Laravel.
 **فارسی:** سلام، در این پروژه، من یک پروژه کوچک برای عملیات crud ایجاد کرده‌ام. این پروژه با Laravel توسعه داده شده است.
